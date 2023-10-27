@@ -627,6 +627,7 @@ body.dark {
   font-weight: 400;
   color: var(--text-black-700);
   margin-left: 4px;
+  transition: all 0.3s ease 0s;
 }
 
 .about .info-item span {
